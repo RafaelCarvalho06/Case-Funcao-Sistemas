@@ -9,6 +9,26 @@ Sistema de manutenção de clientes (ASP.NET MVC 5 / .NET Framework 4.8 / SQL Se
 
 ---
 
+## 0. Como obter o projeto
+
+Repositório: **https://github.com/RafaelCarvalho06/Case-Funcao-Sistemas**
+
+> Este é um sistema **ASP.NET MVC (.NET Framework 4.8) com banco SQL Server LocalDB**: ele **não executa online** pelo GitHub. É preciso baixá-lo e abri-lo no Visual Studio 2022, conforme os passos abaixo.
+
+**Opção A — Baixar o ZIP (mais simples)**
+1. Na página do repositório, clique no botão verde **`<> Code`** → **Download ZIP**.
+2. Antes de extrair: botão direito no ZIP baixado → **Propriedades** → marque **Desbloquear** (se a opção aparecer) → **OK**.
+3. Extraia para uma pasta simples (ex.: `C:\Projetos\`). A pasta extraída se chamará `Case-Funcao-Sistemas-master`.
+
+**Opção B — Clonar com Git**
+```
+git clone https://github.com/RafaelCarvalho06/Case-Funcao-Sistemas.git
+```
+
+Depois, siga os passos da seção 2 (a seção 1 lista os pré-requisitos).
+
+---
+
 ## 1. Pré-requisitos
 
 Visual Studio 2022 (a edição *Community* serve) com os itens abaixo instalados — são os mesmos citados no enunciado do teste:
